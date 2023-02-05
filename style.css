@@ -1,0 +1,14 @@
+body{
+    color:white;
+    background:rgb(219, 107, 197);
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects , #result_object_name , #result_object_accuracy{
+   color:blueviolet;
+}
+   
